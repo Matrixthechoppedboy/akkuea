@@ -1,0 +1,18 @@
+{
+  "default_branch": "develop",
+  "branches": [
+    "develop",
+    "fix/issue-1179-contracts-game-land-token-accepts-negative",
+    "origin"
+  ],
+  "parent": {
+    "develop": null,
+    "fix/issue-1179-contracts-game-land-token-accepts-negative": "develop",
+    "origin": "develop"
+  },
+  "order": [
+    "develop",
+    "fix/issue-1179-contracts-game-land-token-accepts-negative",
+    "origin"
+  ]
+}
